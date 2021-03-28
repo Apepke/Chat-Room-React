@@ -1,0 +1,41 @@
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    height: 60%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 20%;
+    border-radius: 8px;
+    background:black;
+    border: 4px solid maroon;
+  }
+  
+  .activeContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50%;
+    color:white;
+  }
+  
+  .activeItem {
+    display: flex;
+    align-items: center;
+  }
+  
+  .activeContainer img {
+    padding-right: 10px;
+  }
+  
+  .textContainer h1 {
+    font-size:30px;
+    margin-bottom: 0px;
+    text-decoration: underline;
+    font-weight:400;
+    color:white;
+  }
+  
+  @media (min-width: 320px) and (max-width: 1200px) {
+ 
+  }
