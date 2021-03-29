@@ -1,5 +1,5 @@
 {
-  "name": "sociband",
+  "name": "Chat-Room",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-plugin-jest": "^24.3.2"
   }
 }
